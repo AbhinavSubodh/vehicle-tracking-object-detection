@@ -75,9 +75,3 @@ This project uses YOLOv5 (via PyTorch Hub) to perform real-time object detection
 ## License
 
 This project uses YOLOv5 by Ultralytics, which is licensed under the GNU Affero General Public License v3.0.
-
----
-
-**Enjoy detecting objects in your videos!**
-
-If you need further customization or encounter any issues, feel free to ask.
